@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goshitsarch-eng.github.io/hearthterm-site/sitemap.xml

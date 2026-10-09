@@ -1,0 +1,76 @@
+Gosh Apps Proprietary License
+
+HearthTerm
+Copyright (c) 2026 Gosh Apps. All rights reserved.
+
+1. Official Distributions
+
+“Official executable distributions” means unmodified, executable releases of
+HearthTerm made available by Gosh Apps or through a distribution channel
+expressly authorized by Gosh Apps.
+
+2. Limited End-User Grant
+
+Subject to this License, Gosh Apps grants you a limited, non-exclusive,
+non-transferable, non-sublicensable license to download, install, and use
+official executable distributions of HearthTerm on devices you own or control
+for your personal and internal business use. You may make a reasonable number
+of backup copies of an official executable distribution solely to support
+that permitted use.
+
+3. Authorized Distribution and Proprietary Restrictions
+
+Gosh Apps and distribution channels expressly authorized by Gosh Apps may copy
+and distribute unchanged official executable distributions of HearthTerm.
+HearthTerm is proprietary software and is not open-source software. No rights
+or license are granted to the HearthTerm source code. Except for the limited
+grants in Sections 2 and 3, you may not copy, modify, adapt, translate, create
+derivative works from, distribute, publish, sublicense, sell, rent, lease,
+provide as a hosted service, or otherwise transfer HearthTerm. You may not
+reverse engineer, decompile, or disassemble HearthTerm, except and only to the
+extent that applicable law expressly permits that activity despite this
+restriction. You may not remove or alter proprietary, copyright, trademark, or
+attribution notices.
+
+4. Ownership
+
+Gosh Apps and its licensors retain all right, title, and interest in HearthTerm,
+including all intellectual-property rights. HearthTerm and Gosh Apps names and
+marks are not licensed except as needed to identify the software truthfully.
+
+5. Third-Party Software
+
+HearthTerm includes third-party components governed by their respective license
+terms. Those terms and required attributions are provided in the
+THIRD_PARTY_NOTICES file distributed with HearthTerm. If a third-party license
+conflicts with this License for that component, the third-party license controls
+for that component only.
+
+6. Termination
+
+This License terminates automatically if you materially breach its terms. On
+termination, you must stop using HearthTerm and delete copies in your possession
+or control, except to the extent retention is required by applicable law.
+
+7. Disclaimer of Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, HEARTHTERM IS PROVIDED “AS IS” AND “AS
+AVAILABLE,” WITHOUT WARRANTIES OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT. GOSH APPS DOES NOT WARRANT THAT HEARTHTERM WILL BE
+ERROR-FREE, SECURE, OR UNINTERRUPTED.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, GOSH APPS AND ITS LICENSORS WILL NOT BE
+LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OR GOODWILL, ARISING
+FROM OR RELATED TO HEARTHTERM OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY
+OF THOSE DAMAGES. NOTHING IN THIS LICENSE EXCLUDES OR LIMITS LIABILITY THAT
+CANNOT LAWFULLY BE EXCLUDED OR LIMITED.
+
+9. Entire Grant
+
+This License states the permissions granted for official executable
+distributions of HearthTerm. Any additional permission must be in a separate
+written agreement authorized by Gosh Apps.
